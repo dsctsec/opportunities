@@ -23,8 +23,8 @@ Websites where companies post part-time, full-time and remote positions 🎓
 - Dice — https://www.dice.com
 - WPHired (Wordpress) — https://www.wphired.com
 - GitHub Jobs — https://jobs.github.com 
-- Google Summer of Code — https://summerofcode.withgoogle.com/
-- GirlScript Winter of Code — https://gwoc.girlscript.tech/
+- Google Summer of Code — https://summerofcode.withgoogle.com
+- GirlScript Winter of Code — https://gwoc.girlscript.tech
 - Google Season of Docs — https://developers.google.com/season-of-docs
-- HactoberFest — https://hacktoberfest.digitalocean.com/
-- Open Summer of Code — https://hacktoberfest.digitalocean.com/
+- HactoberFest — https://hacktoberfest.digitalocean.com
+- Open Summer of Code — https://hacktoberfest.digitalocean.com
