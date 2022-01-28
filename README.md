@@ -25,8 +25,12 @@ Websites where companies post part-time, full-time and remote positions 🎓
 | 19      | Dice                          | https://www.dice.com                        |                           |
 | 20      | WPHired (WordPress)           | https://www.wphired.com                     |                           |
 | 21      | Github Jobs                   | https://jobs.github.com                     |                           |
-| 22      | Google Summer of Code  (GSOC) | https://summerofcode.withgoogle.com         |                           |
-| 23      | GirlScript Winter of  Code    | https://gwoc.girlscript.tech                |                           |
-| 24      | Google Season of Docs         | https://developers.google.com/season-of-docs |                           |
-| 25      | Hacktober Fest                | https://hacktoberfest.digitalocean.com      |                           |
-| 26      | Open Summer of Code           | https://hacktoberfest.digitalocean.com      |                           |
+
+## Student Opportunities 
+
+| Sr. No. | Platform / Opportunity        | Links                                        | Resources / Miscellaneous |
+|--------:|-------------------------------|----------------------------------------------|---------------------------|
+|  1      | Google Summer of Code  (GSoC) | https://summerofcode.withgoogle.com         |                           |
+|  2      | Google Season of Docs         | https://developers.google.com/season-of-docs |                           |
+|  3      | Hacktoberfest                | https://hacktoberfest.digitalocean.com      |                           |
+|  4      | GirlScript Winter of Code    | https://gwoc.girlscript.tech                |                           |
